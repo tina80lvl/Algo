@@ -1,0 +1,3 @@
+/Users/tina/Documents/GitHub/Algo/I_tournament/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tina/Documents/GitHub/Algo/I_tournament/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tina/Documents/GitHub/Algo/I_tournament/cmake-build-debug/CMakeFiles/I_tournament.dir

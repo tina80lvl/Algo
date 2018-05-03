@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tina/Desktop/GitHub/Algo/C_snails/main.cpp
+iostream
+-
+vector
+-
+queue
+-
+cstdio
+-
+map
+-
+

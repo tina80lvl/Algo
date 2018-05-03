@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tina/Documents/GitHub/Algo/E_chess/main.cpp
+iostream
+-
+cstdio
+-
+vector
+-
+string.h
+-
+algorithm
+-
+

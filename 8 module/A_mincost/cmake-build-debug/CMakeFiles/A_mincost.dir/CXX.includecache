@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tina/Documents/GitHub/Algo/8 module/A_mincost/main.cpp
+stdio.h
+-
+vector
+-
+iostream
+-
+climits
+-
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tina/Desktop/ITMO/CT/Algo/LCA/H/main.cpp
+iostream
+-
+vector
+-
+cstdio
+-
+tuple
+-
+
