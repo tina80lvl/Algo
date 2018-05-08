@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/A_mincost"
+CMAKE_SOURCE_DIR = "/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/E_rps2"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/A_mincost/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/E_rps2/cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/A_mincost/cmake-build-debug/CMakeFiles" "/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/A_mincost/cmake-build-debug/CMakeFiles/progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/E_rps2/cmake-build-debug/CMakeFiles" "/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/E_rps2/cmake-build-debug/CMakeFiles/progress.marks"
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/A_mincost/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/E_rps2/cmake-build-debug/CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -111,17 +111,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named A_mincost
+# Target rules for targets named E_rps2
 
 # Build rule for target.
-A_mincost: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 A_mincost
-.PHONY : A_mincost
+E_rps2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 E_rps2
+.PHONY : E_rps2
 
 # fast build rule for target.
-A_mincost/fast:
-	$(MAKE) -f CMakeFiles/A_mincost.dir/build.make CMakeFiles/A_mincost.dir/build
-.PHONY : A_mincost/fast
+E_rps2/fast:
+	$(MAKE) -f CMakeFiles/E_rps2.dir/build.make CMakeFiles/E_rps2.dir/build
+.PHONY : E_rps2/fast
 
 main.o: main.cpp.o
 
@@ -129,7 +129,7 @@ main.o: main.cpp.o
 
 # target to build an object file
 main.cpp.o:
-	$(MAKE) -f CMakeFiles/A_mincost.dir/build.make CMakeFiles/A_mincost.dir/main.cpp.o
+	$(MAKE) -f CMakeFiles/E_rps2.dir/build.make CMakeFiles/E_rps2.dir/main.cpp.o
 .PHONY : main.cpp.o
 
 main.i: main.cpp.i
@@ -138,7 +138,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) -f CMakeFiles/A_mincost.dir/build.make CMakeFiles/A_mincost.dir/main.cpp.i
+	$(MAKE) -f CMakeFiles/E_rps2.dir/build.make CMakeFiles/E_rps2.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -147,7 +147,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) -f CMakeFiles/A_mincost.dir/build.make CMakeFiles/A_mincost.dir/main.cpp.s
+	$(MAKE) -f CMakeFiles/E_rps2.dir/build.make CMakeFiles/E_rps2.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -158,7 +158,7 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
-	@echo "... A_mincost"
+	@echo "... E_rps2"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -54,45 +54,45 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/A_mincost"
+CMAKE_SOURCE_DIR = "/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/E_rps2"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/A_mincost/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/E_rps2/cmake-build-debug"
 
 #=============================================================================
-# Target rules for target CMakeFiles/A_mincost.dir
+# Target rules for target CMakeFiles/E_rps2.dir
 
 # All Build rule for target.
-CMakeFiles/A_mincost.dir/all:
-	$(MAKE) -f CMakeFiles/A_mincost.dir/build.make CMakeFiles/A_mincost.dir/depend
-	$(MAKE) -f CMakeFiles/A_mincost.dir/build.make CMakeFiles/A_mincost.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/A_mincost/cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target A_mincost"
-.PHONY : CMakeFiles/A_mincost.dir/all
+CMakeFiles/E_rps2.dir/all:
+	$(MAKE) -f CMakeFiles/E_rps2.dir/build.make CMakeFiles/E_rps2.dir/depend
+	$(MAKE) -f CMakeFiles/E_rps2.dir/build.make CMakeFiles/E_rps2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/E_rps2/cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target E_rps2"
+.PHONY : CMakeFiles/E_rps2.dir/all
 
 # Include target in all.
-all: CMakeFiles/A_mincost.dir/all
+all: CMakeFiles/E_rps2.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/A_mincost.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/A_mincost/cmake-build-debug/CMakeFiles" 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/A_mincost.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/A_mincost/cmake-build-debug/CMakeFiles" 0
-.PHONY : CMakeFiles/A_mincost.dir/rule
+CMakeFiles/E_rps2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/E_rps2/cmake-build-debug/CMakeFiles" 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/E_rps2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/E_rps2/cmake-build-debug/CMakeFiles" 0
+.PHONY : CMakeFiles/E_rps2.dir/rule
 
 # Convenience name for target.
-A_mincost: CMakeFiles/A_mincost.dir/rule
+E_rps2: CMakeFiles/E_rps2.dir/rule
 
-.PHONY : A_mincost
-
-# clean rule for target.
-CMakeFiles/A_mincost.dir/clean:
-	$(MAKE) -f CMakeFiles/A_mincost.dir/build.make CMakeFiles/A_mincost.dir/clean
-.PHONY : CMakeFiles/A_mincost.dir/clean
+.PHONY : E_rps2
 
 # clean rule for target.
-clean: CMakeFiles/A_mincost.dir/clean
+CMakeFiles/E_rps2.dir/clean:
+	$(MAKE) -f CMakeFiles/E_rps2.dir/build.make CMakeFiles/E_rps2.dir/clean
+.PHONY : CMakeFiles/E_rps2.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/E_rps2.dir/clean
 
 .PHONY : clean
 

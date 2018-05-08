@@ -6,13 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/A_mincost/main.cpp
-stdio.h
--
-vector
--
+/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/E_rps2/main.cpp
 iostream
 -
-climits
+cmath
 -
 

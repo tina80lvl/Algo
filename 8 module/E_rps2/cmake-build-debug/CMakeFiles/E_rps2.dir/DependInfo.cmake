@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/A_mincost/main.cpp" "/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/A_mincost/cmake-build-debug/CMakeFiles/A_mincost.dir/main.cpp.o"
+  "/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/E_rps2/main.cpp" "/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/E_rps2/cmake-build-debug/CMakeFiles/E_rps2.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

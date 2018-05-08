@@ -1,3 +1,3 @@
-/Users/tina/Documents/GitHub/Algo/8 module/A_mincost/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/tina/Documents/GitHub/Algo/8 module/A_mincost/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/tina/Documents/GitHub/Algo/8 module/A_mincost/cmake-build-debug/CMakeFiles/A_mincost.dir
+/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/A_mincost/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/A_mincost/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tina/Documents/ITMO/CT/ITMO_Algorythms/8 module/A_mincost/cmake-build-debug/CMakeFiles/A_mincost.dir
