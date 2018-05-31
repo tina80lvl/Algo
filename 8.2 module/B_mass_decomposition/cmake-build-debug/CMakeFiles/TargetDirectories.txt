@@ -1,0 +1,3 @@
+/Users/tina/Documents/ITMO/CT/Algorythms/8.2 module/B_mass_decomposition/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tina/Documents/ITMO/CT/Algorythms/8.2 module/B_mass_decomposition/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tina/Documents/ITMO/CT/Algorythms/8.2 module/B_mass_decomposition/cmake-build-debug/CMakeFiles/B_mass_decomposition.dir
